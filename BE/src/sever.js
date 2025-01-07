@@ -6,7 +6,6 @@ import configCors from './config/cors'
 import initApiRoutes from './routes/api'
 require('dotenv').config();
 const app = express();
-import JWTService from './middleware/JWTservice';
 var bodyParser = require('body-parser');
 var cookieParser = require('cookie-parser')
 
