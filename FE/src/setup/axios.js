@@ -1,10 +1,10 @@
 import { ToastContainer, toast } from 'react-toastify';
 import axios, { isCancel, AxiosError } from 'axios';
-
+require('dotenv').config();
 
 
 const instance = axios.create({
-    baseURL: 'http://localhost:8080',
+    baseURL: process.env.REACT_APP_BACKEND_URL,
 });
 
 instance.defaults.withCredentials = true;

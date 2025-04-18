@@ -78,7 +78,7 @@ function Gradient(props) {
 
             </div> */}
 
-            {/* <div className='text-animation-1 container'>
+            <div className='text-animation-1 container'>
                 <div id='container'>
                     Make
                     <div id="flip">
@@ -89,7 +89,7 @@ function Gradient(props) {
                     AweSoMe!
                 </div>
 
-            </div> */}
+            </div>
 
             <div className='text-animation-2 '>
                 <LazyLoad height={200}>
