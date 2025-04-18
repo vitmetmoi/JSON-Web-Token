@@ -1,5 +1,5 @@
 # JWT-project
-=======
+
 
 ## Overview
 This project is a full-stack web application for user role management with secure authentication using JSON Web Tokens (JWT). It consists of a React frontend and Node.js/Express backend, providing a robust system for managing user roles and permissions.
@@ -80,4 +80,3 @@ Bảo Duy (git: vitmetmoi)
 - Node.js community for the robust backend ecosystem
 - All contributors and package maintainers used in this project
 
->>>>>>> main
