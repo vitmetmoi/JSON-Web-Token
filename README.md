@@ -1,5 +1,4 @@
 # JWT-project
-<<<<<<< dev
 =======
 
 ## Overview
